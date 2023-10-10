@@ -1,4 +1,4 @@
-# proiect-sincretic modificare
+# Turnurile din hanoi
 
-CE VORBESTI? OMULE
+
  
