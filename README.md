@@ -1,4 +1,4 @@
 # proiect-sincretic modificare
 
-CE VORBESTI?
+CE VORBESTI? OMULE
  
