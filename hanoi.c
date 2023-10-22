@@ -41,5 +41,6 @@ int main()
 	scanf("%d", &n);
 	mutari(n);
 	hanoi(n, a, b, c);
+	getch();
 	return 0;
 }
