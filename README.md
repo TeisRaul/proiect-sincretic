@@ -6,6 +6,6 @@ Turnul din Hanoi sau Turnurile din Hanoi este un joc matematic sau puzzle. Este 
    - Fiecare mutare constă în luarea celui mai de sus disc de pe o tija și glisarea lui pe o altă tijă, chiar și deasupra altor discuri care sunt deja prezente pe acea tijă.
    - Un disc mai mare nu poate fi poziționat deasupra unui disc mai mic.
 
-Cu 3 discuri, jocul se rezolvă în 7 mișcări. Numărul minim de mișcări pentru a rezolva jocul este ![](F:/GitHub/proiect-sincretic/proiect-sincretic/51e4bd4ef2f9549d026cbf643a91c0d12a8c6794.svg)
+Cu 3 discuri, jocul se rezolvă în 7 mișcări. Numărul minim de mișcări pentru a rezolva jocul este ![](F:/GitHub/proiect-sincretic/51e4bd4ef2f9549d026cbf643a91c0d12a8c6794.svg)
 
 
