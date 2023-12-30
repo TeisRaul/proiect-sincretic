@@ -1,6 +1,5 @@
 #include<stdlib.h>
 #include<stdio.h>
-#include<conio.h>
 void muta_Disc(int n, char a, char c)
 {
 	printf("Muta discul %d de la %c catre %c\n", n, a, c);
